@@ -1,4 +1,7 @@
+// inspired by the "style-loader" loader
+
 const path = require("path");
+
 
 module.exports = function(content){
   return content;
